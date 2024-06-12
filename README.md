@@ -14,7 +14,6 @@ Features
 **Continuous Drawing**: Keep drawing random events with the click of a button.
 **Navigation**: Return to the home screen for more options.
 
-## Usage
 ### Event Section:
 Enter event details and click to create the event.
 Click on each event for detailed information.
