@@ -1,35 +1,33 @@
-# Vertex_vue
+Vertex Frontend: Events App
 
-This template should help get you started developing with Vue 3 in Vite.
+Welcome to Vertex Frontend: Events, an interactive events management application.
 
-## Recommended IDE Setup
+Features
+### Event Section
+**Question-Based Event Creation**: Generate an event by filling out a form.
+**Interactive UI**: Click a button to reveal the event details and their information.
+**Stored Events**: Save up to three events and their corresponding details.
+**Navigation**: Easily navigate back to the home screen or restart the event creation.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+### Event of the Day
+**Random Event Display**: View a random event and its key information.
+**Continuous Drawing**: Keep drawing random events with the click of a button.
+**Navigation**: Return to the home screen for more options.
 
-## Customize configuration
+## Usage
+### Event Section:
+Enter event details and click to create the event.
+Click on each event for detailed information.
+Use buttons to navigate or restart.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+### Event of the Day:
+View a random event and its details.
+Keep drawing new events or return to the home screen.
 
-## Project Setup
+## Technologies Used
+- HTML
+- CSS
+- Vue JS
 
-```sh
-npm install
-```
+Link to deployed front-end: https://grupo003-vertex.netlify.app/
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
