@@ -2,7 +2,7 @@ import { initializeApp } from 'firebase/app'
 import { getAuth } from 'firebase/auth'
 
 const firebaseConfig = {
-  apiKey: '',
+  apiKey: 'process.env.VUE_APP_FIREBASE_API_KEY',
   authDomain: 'vertex-5b698.firebaseapp.com',
   projectId: 'vertex-5b698',
   storageBucket: 'vertex-5b698.appspot.com',
