@@ -1,4 +1,4 @@
-Vertex Frontend: Events App
+###Vertex Frontend: Events App
 
 Welcome to Vertex Frontend: Events, an interactive events management application.
 
