@@ -1,0 +1,63 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "titulo": "Title",
+      "fechaEvento": "2024-05-15",
+      "horaEvento": "15:30",
+      "localidadEvento": "Ciudad 1",
+      "descripcionEvento": "Descripción del evento",
+      "fotoEventoPerfil": "https://buffer.com/library/content/images/2023/10/free-images.jpg",
+      "galeriaEventoUno": "ruta/a/la/galeria1.jpg",
+      "galeriaEventoDos": "ruta/a/la/galeria2.jpg",
+      "galeriaEventoTres": "ruta/a/la/galeria3.jpg",
+      "puntuacion": 5,
+      "users": {
+        "id": 1,
+        "nombre": "Nombre del usuario",
+        "email": "usuario@example.com"
+      }
+    },
+    {
+      "id": "2",
+      "titulo": "Title",
+      "fechaEvento": "2024-05-15",
+      "horaEvento": "15:30",
+      "localidadEvento": "Ciudad 2",
+      "descripcionEvento": "Descripción del evento",
+      "fotoEventoPerfil": "https://images.pexels.com/photos/1154189/pexels-photo-1154189.jpeg",
+      "galeriaEventoUno": "ruta/a/la/galeria1.jpg",
+      "galeriaEventoDos": "ruta/a/la/galeria2.jpg",
+      "galeriaEventoTres": "ruta/a/la/galeria3.jpg",
+      "puntuacion": 5,
+      "users": {
+        "id": 1,
+        "nombre": "Nombre del usuario",
+        "email": "usuario@example.com"
+      }
+    }
+  ],
+  "events_history": [],
+  "users": [
+    {
+      "id": "0bcf",
+      "email": "test@mail.com",
+      "password": "123123"
+    },
+    {
+      "id": "fb1e",
+      "email": "asd@asd.com",
+      "password": "123123"
+    },
+    {
+      "id": "0840",
+      "email": "asd2@asd.com",
+      "password": "123123"
+    },
+    {
+      "id": "0b67",
+      "email": "asd5@asd.com",
+      "password": "123123"
+    }
+  ]
+}
